@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cross-Chain_Tracer/1.0.0": {
+        "runtime": {
+          "Cross-Chain_Tracer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cross-Chain_Tracer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
