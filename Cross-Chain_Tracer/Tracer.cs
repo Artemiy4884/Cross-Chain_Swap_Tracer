@@ -3,8 +3,8 @@ using Cross_Chain_Tracer;
 
 class Tracer
 {
-    private static readonly string ETHEREUM_API_KEY = "D1NMHJXT8HD52JZPIHGXTGCFWAVV54BEI8";
-    private static readonly string BASE_API_KEY = "S9UDA6NHRTMA45N4DKNY3CU54HSANMF9ZZ";
+    private static readonly string ETHEREUM_API_KEY = "YOUR_API_KEY"; 
+    private static readonly string BASE_API_KEY = "YOUR_API_KEY"; 
 
     private static async Task Main(){
         Console.WriteLine("Enter start block for Base:");
